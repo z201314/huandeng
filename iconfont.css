@@ -1,0 +1,40 @@
+@font-face {font-family: "iconfont";
+  src: url('https://cdn.jsdelivr.net/gh/z201314/huandeng/iconfont-1560851833076.eot'); 
+  src: url('https://cdn.jsdelivr.net/gh/z201314/huandeng/iconfont-1560851833076.eot#iefix') format('embedded-opentype'), 
+  /*url('../fonts/d1b9d9b086964c8cab9182cd6db80c9f.woff') format('woff2'),*/
+  url('https://cdn.jsdelivr.net/gh/z201314/huandeng/iconfont-1560851833076.woff') format('woff'),
+  url('https://cdn.jsdelivr.net/gh/z201314/huandeng/iconfont-1560851833076.ttf') format('truetype'), 
+  url('../fonts/iconfont-1560851833076.svg#iconfont') format('svg'); 
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-search:before {
+  content: "\e651";
+}
+
+.icon-top:before {
+  content: "\e62e";
+}
+
+.icon-pic:before {
+  content: "\e719";
+}
+
+.icon-back:before {
+  content: "\e60c";
+}
+
+.icon-video:before {
+  content: "\e67a";
+}
+
+.icon-zhibo:before {
+  content: "\e621";
+}
