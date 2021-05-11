@@ -2,7 +2,7 @@
 document.write("    #player_pause {");
 document.write("        position: absolute;");
 document.write("        z-index: 9999;");
-document.write("        top: 65%;");
+document.write("        top: 50%;");
 document.write("        left: 90%;");
 document.write("        border-radius: 5px;");
 document.write("        -webkit-transform: translate(-50%,-50%);");
