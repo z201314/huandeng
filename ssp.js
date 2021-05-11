@@ -3,7 +3,7 @@ document.write("    #player_pause {");
 document.write("        position: absolute;");
 document.write("        z-index: 9999;");
 document.write("        top: 50%;");
-document.write("        left: 70%;");
+document.write("        left: 75%;");
 document.write("        border-radius: 5px;");
 document.write("        -webkit-transform: translate(-50%,-50%);");
 document.write("        -moz-transform: translate(-50%,-50%);");
